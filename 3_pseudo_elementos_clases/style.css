@@ -1,0 +1,94 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+}
+
+/*.texto{
+    padding: 20px;
+}
+.texto::first-line{
+color: blue;
+}
+
+.texto::first-letter{
+    font-size: 50px;
+}
+pseudo elementos
+form {
+    display: block;
+    margin:100px auto;
+    background-color: #555;
+    padding: 60px;
+    width: 50%;
+}
+input{
+    padding:6px;
+    width: 100%;
+}
+input::selection{
+    color: aqua;
+    background: black;
+}
+
+
+form {
+    display: block;
+    margin:100px auto;
+    background-color: #555;
+    padding:100PX 10px;
+    width: 90%;
+    text-align: center;
+}
+b{
+    padding:6px;
+    width: 100%;
+}
+
+.caja1:hover{
+    background: lightcoral;
+    width: 60%;
+    border: 3px solid lightseagreen;
+    color: aliceblue;
+}
+
+
+.caja1{
+    
+    margin:30px;
+    padding: 20px;
+   
+
+    border: 3px solid lightcoral;
+    display: block;
+    text-align: center;
+    width: 30%;
+}
+
+a:link{
+    color: rgb(65, 165, 42);
+}
+a:visited{
+    color: aqua;
+}
+.caja1:active{
+    background: blue;
+}
+
+.caja1{
+    transition: all .4s;
+    margin: 26px;
+}
+.caja1:focus{
+    background: lightblue;
+
+    padding: 30px;
+}
+*/
+.caja{
+    margin:25px
+}
+.caja b:lang(es){
+    background: red;
+    padding: 20px;
+} 

@@ -1,0 +1,19 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.caja{
+    margin: 50px;
+    width: 200px;
+    height: 300px;
+    border: 5px solid lightseagreen;
+    background: pink;
+    cursor:pointer;
+}
+/*.caja img{
+    width: 100%;
+    height: 100%;
+    border: 2px solid rebeccapurple;
+    object-fit: cover;
+}*/
